@@ -1,5 +1,5 @@
 # Small mammal community composition varies among Ozark glades
-Beasley, E.M. & Maher, S.P. In review. Small mammal community composition varies among Ozark glades. Journal of Mammalogy.
+Beasley, E.M. & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774-1782.
 
 ### For questions about data or code, please contact the corresponding author: Emily Beasley (ebeasley{at}uvm{dot}edu).
 
